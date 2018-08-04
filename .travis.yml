@@ -2,9 +2,15 @@ language: node_js
 
 sudo: enabled
 
+before_install:
+  - apt-get install -y git-all
+  - npm install -g hexo-cli
+
+  
+
 install:
   - npm install
-  - apt install hexo
+
 
 script: hexo d
 
