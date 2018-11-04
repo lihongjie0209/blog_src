@@ -1,7 +1,9 @@
 ---
 title: JVM之类文件
 date: 2018-11-03 22:32:01
-tags:JVM Class文件
+tags: 
+    - JVM 
+    - Class文件
 ---
 
 # 前言
