@@ -1,7 +1,9 @@
 ---
 title: JVM之VisualVM连接远程服务器
 date: 2018-11-02 14:42:14
-tags:JVM VisualVM
+tags:
+	- JVM
+	- VisualVM
 ---
 
 # 如何连接到远程服务器

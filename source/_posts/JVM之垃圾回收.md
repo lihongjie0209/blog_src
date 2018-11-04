@@ -1,7 +1,9 @@
 ---
 title: JVM之垃圾回收
 date: 2018-10-31 20:02:12
-tags:jvm gc
+tags:
+    - JVM
+    - GC
 ---
 
 # 概述
